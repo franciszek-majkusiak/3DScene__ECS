@@ -1,0 +1,42 @@
+# Blender 3.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl aiStandardSurface2SG
+Ns 1.00000
+Kd 0.00 1.00 0.00
+Ka 0.00 0.10 0.00
+Ks 0.20 0.20 0.20
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+
+newmtl aiStandardSurface3SG
+Ns 1.000000
+Kd 0.00 1.00 0.00
+Ka 0.00 0.10 0.00
+Ks 0.20 0.20 0.20
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+
+newmtl aiStandardSurface4SG
+Ns 1.000000
+Kd 0.00 1.00 0.00
+Ka 0.00 0.10 0.00
+Ks 0.20 0.20 0.20
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+
+newmtl aiStandardSurface5SG
+Ns 1.000000
+Kd 0.00 1.00 0.00
+Ka 0.00 0.10 0.00
+Ks 0.20 0.20 0.20
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
